@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <!--     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmadkashif&count_private=true&show_icons=true&theme=radical&hide=issues&hideborder=true&title_color=2895BC&icon_color=FE0000&include_all_commits=true" alt="GitHub stats"> -->
 <!-- 	</div> -->
    
-	<img src="https://activity-graph.herokuapp.com/graph?username=imvickykumar999&custom_title=Recently%20contributions&hide_border=true&area=true&area_color=2895BC&point=FE0000&line=2895BC&theme=react-dark" alt="Recently contributions graph">
+<!-- 	<img src="https://activity-graph.herokuapp.com/graph?username=imvickykumar999&custom_title=Recently%20contributions&hide_border=true&area=true&area_color=2895BC&point=FE0000&line=2895BC&theme=react-dark" alt="Recently contributions graph"> -->
 	
 </div>
 
