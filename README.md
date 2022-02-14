@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadkashif&currStreakNum=2FD3EB&theme=dark&sideLabels=F00&date_format=j/n/Y" alt="Recently contributions graph">
 	<div>
 <!-- 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadkashif&langs_count=5&theme=radical&title_color=2895BC&hide=VHDL,Stata&custom_title=Most recently used languages" alt="Most recently used languages"> -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmadkashif&count_private=true&show_icons=true&theme=radical&hide=issues&hideborder=true&title_color=2895BC&icon_color=FE0000&include_all_commits=true" alt="GitHub stats">
+<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmadkashif&count_private=true&show_icons=true&theme=radical&hide=issues&hideborder=true&title_color=2895BC&icon_color=FE0000&include_all_commits=true" alt="GitHub stats"> -->
 	</div>
     <a href="https://github.com/imvickykumar999">
 	<img src="https://activity-graph.herokuapp.com/graph?username=Ahmadkashif&custom_title=Recent%20contributions&hide_border=true&area=true&area_color=2895BC&point=FE0000&line=2895BC&theme=react-dark" alt="Recently contributions graph">
