@@ -1,4 +1,9 @@
 ### Hi there 👋
+## I am Ahmad , a junior software enginner. I do server side programming 🤓🤓🤓 ... 
+
+- 🔭 I’m currently working on nodejs development.
+- 🌱 I’m currently learning c++ server side programming.
+- 👯 I’m looking to collaborate on c++ webserver projects.
 
 <!--
 **Ahmadkashif/Ahmadkashif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
