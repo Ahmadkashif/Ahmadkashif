@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style='text-align: justify;'>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmadkashif&currStreakNum=2FD3EB&theme=dark&sideLabels=F00&date_format=j/n/Y)](https://git.io/streak-stats)</div>
+<!-- <div style='text-align: justify;'> -->
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmadkashif&currStreakNum=2FD3EB&theme=dark&sideLabels=F00&date_format=j/n/Y)](https://git.io/streak-stats) -->
+<!-- </div> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadkashif&currStreakNum=2FD3EB&theme=dark&sideLabels=F00&date_format=j/n/Y" alt="Recently contributions graph">
