@@ -1,5 +1,5 @@
 <h3>Hi there 👋</h3>
-<h2>I am Ahmad, a junior software engineer. I do server side programming 🤓🤓🤓 ... </h2>
+<h2>I am Ahmad, a software engineer. I do server side programming 🤓🤓🤓 ... </h2>
 
 - 🔭 I’m currently working on nodejs development.
 - 🌱 I’m currently learning c++ server side programming.
