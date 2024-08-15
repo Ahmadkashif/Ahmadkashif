@@ -1,9 +1,5 @@
 <h3>Hi there 👋</h3>
-<h2>I am Ahmad, a software engineer. I do server side programming 🤓🤓🤓 ... </h2>
-
-- 🔭 I’m currently working on nodejs development.
-- 🌱 I’m currently learning c++ server side programming.
-- 👯 I’m looking to collaborate on c++ webserver projects.
+<h2>I am Ahmad, a software engineer. I do server side programming ... </h2>
 
 <!-- <p align="Left"> <img src="https://komarev.com/ghpvc/?username=Ahmadkashif&style=plastic&color=orange&label=PROFILE+VIEWS" alt=""  /> </p> -->
 
