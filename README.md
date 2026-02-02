@@ -1,6 +1,12 @@
 <h3>Hi there 👋</h3>
-<h2>I am Ahmad, a software engineer. I do server side programming ... </h2>
+<h2>I am Ahmad, been programming since highschool. I have a decade of experience building, maintaining and auditing software systems.</h2>
 
+I can provide tangible proof for the following claims:
+
+1. I have written code that is used by millions of users world-wide, daily. Check my 200+ contributions on Paypal's datasource JunoDb.
+2. I have led 10+ engineering teams and mentored 70+ software engineers for the past 3 years. I was awarded as the Top Contributor 2023 from Freecodecamp for organizing the hackathon that year.
+3. I have architected 50+ software systems, 40 of which were successful businesses in different domains across the globe.
+4. I have architected profitable AI solutions in 3 industries since 2024 and reviewed 10+ others as a contractor.
 <!-- <p align="Left"> <img src="https://komarev.com/ghpvc/?username=Ahmadkashif&style=plastic&color=orange&label=PROFILE+VIEWS" alt=""  /> </p> -->
 
 <!--
